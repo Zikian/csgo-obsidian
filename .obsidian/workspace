@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "f503ef1af21c1e4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee408d379a603b90",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mirage/Mirage Overview.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d077412cad4b0590",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcab892abb3a62f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff17c8bf75f32fc5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b6446b0b2c11745f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5ce482a9cd6fa746",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6c85e2b3d9ad82d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efea3141933ed8cb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mirage/Mirage Overview.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ee408d379a603b90",
+  "lastOpenFiles": [
+    "Mirage/Mirage Overview.md"
+  ]
+}
