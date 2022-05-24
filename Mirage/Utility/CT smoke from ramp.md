@@ -1,0 +1,1 @@
+# CT smoke from ramp
