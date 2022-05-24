@@ -1,8 +1,8 @@
 # Mirage 
 
 #### Locations
-- [[A Site]]
-- [[B Site]]
+- [[A Site Mirage]]
+- [[B Site Mirage]]
 - ...
 #### Strats
 - [[A site execute]]
