@@ -1,5 +1,5 @@
 ### CSGO
-Counter mike globally offended is one of the games.
+Counter mike globally offended is one of the games. 
 
 #### Map Pool:
 ##### Mirage
