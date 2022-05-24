@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mirage/Utility/CT smoke from ramp.md",
+            "file": "Mirage/Strats/A site execute.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mirage/Utility/CT smoke from ramp.md",
+                "file": "Mirage/Strats/A site execute.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +96,7 @@
   },
   "active": "f0c10bba6c7bfe46",
   "lastOpenFiles": [
+    "Mirage/Strats/A site execute.md",
     "Mirage/Utility/CT smoke from ramp.md",
     "Files/CT Smoke from ramp.gif",
     "Mirage/Locations/A Site.md",
