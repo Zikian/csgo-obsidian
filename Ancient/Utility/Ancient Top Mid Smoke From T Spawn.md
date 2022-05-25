@@ -1,0 +1,4 @@
+# Top mid smoke from T spawn ancient
+
+**On 64 tick aim slightly higher** !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/ElasticPlushBass' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
