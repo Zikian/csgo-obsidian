@@ -1,4 +1,4 @@
-# A site Mirage
+# Mid Ancient
 #### T Side Utility
 - Smokes
 	- [[Ancient Top Mid Smoke From T Spawn]]

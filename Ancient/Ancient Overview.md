@@ -2,4 +2,5 @@
 
 #### Locations
 - [[Mid Ancient]]
-#### Strats
+- [[B Ancient]]
+#### Strats/Plays
