@@ -1,9 +1,6 @@
 # Mirage 
-
-#### Locations
-- [[A Site Mirage]]
-- [[B Site Mirage]]
-- ...
 #### Strats
 - [[A site execute]]
 - [[CT under palace play]]
+#### Utility
+<iframe src="http://164.90.200.189:3000/mirage" width="1030" height="1050"></iframe>
