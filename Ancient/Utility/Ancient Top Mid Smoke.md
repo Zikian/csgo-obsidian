@@ -1,1 +1,0 @@
-# Ancient Top Mid Smoke
