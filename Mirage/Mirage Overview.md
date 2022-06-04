@@ -4,4 +4,4 @@
 - [[CT under palace play]]
 #### Utility
 [[Edit Mirage Utility]]
-<iframe src="http://164.90.200.189:3000/mirage" width="1030" height="1050"></iframe>
+<iframe src="http://164.90.200.189:3000/mirage" width="1032" height="1032" scrolling="no"></iframe>
