@@ -1,10 +1,7 @@
 ### CSGO
 Counter mike globally offended is one of the games. 
 
-#### Map Pool:
-##### Mirage
+##### Map Overviews
 See [[Mirage Overview]]
-##### Ancient
 See [[Ancient Overview]]
-##### Overpass
 See [[Overpass Overview]]
